@@ -98,7 +98,8 @@
 - Powered by chai and late-night debugging
 
 <div align="center">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Amit&fontSize=50&fontColor=fff)
 
-![Snake animation](https://raw.githubusercontent.com/ROOKIEEE12/ROOKIEEE12/output/github-snake-dark.svg)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
 </div>
