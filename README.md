@@ -50,47 +50,6 @@ class Amit:
 
 ---
 
-## 🚀 Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 MedCore</h3>
-      Hospital Management System with patients, doctors, billing, appointments and records modules, wrapped in a clean "Clinical Navy" UI.<br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/useReducer-0ea5e9?style=flat-square" /><br/><br/>
-      <a href="https://github.com/ROOKIEEE12/MedCore">🔗 View Project</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Currency Detection System</h3>
-      CNN-based model that recognises currency notes from images.<br/><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /><br/><br/>
-      <a href="https://github.com/ROOKIEEE12/Currency-Detection">🔗 View Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ Mr. Monday</h3>
-      Voice-controlled automation assistant that handles tasks hands-free.<br/><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/><br/>
-      <a href="https://github.com/ROOKIEEE12/Mr-Monday">🔗 View Project</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩸 Blood Donation Platform</h3>
-      Connects donors with people in need, with automated SMS and email alerts.<br/><br/><br/>
-      <img src="https://img.shields.io/badge/MERN-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/><br/>
-      <a href="https://github.com/ROOKIEEE12/Blood-Donation-Platform">🔗 View Project</a>
-    </td>
-  </tr>
-</table>
-
-> 🖥️ **Internship work:** built 3 desktop apps (FinTrack, MedCare, Librarium) with Python, NiceGUI and SQLite at BizTech IT Solutions.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
