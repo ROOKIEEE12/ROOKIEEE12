@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ROOKIEEE12&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="views" />
+    <img src="https://hits.sh/github.com/ROOKIEEE12.svg?style=for-the-badge&label=Profile%20Views&color=0ea5e9" alt="views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=statuspage&logoColor=white" alt="status" />
   <img src="https://img.shields.io/github/followers/ROOKIEEE12?style=for-the-badge&logo=github&color=6366f1" alt="followers" />
 </p>
@@ -102,12 +102,6 @@ class Amit:
   <img src="https://streak-stats.demolab.com?user=ROOKIEEE12&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak" />
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROOKIEEE12&theme=tokyo-night&hide_border=true&area=true&custom_title=Amit's%20Contribution%20Graph" width="100%" alt="activity graph" />
-</p>
-
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -116,12 +110,6 @@ class Amit:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ROOKIEEE12/ROOKIEEE12/output/github-snake.svg" />
     <img alt="snake" src="https://raw.githubusercontent.com/ROOKIEEE12/ROOKIEEE12/output/github-snake.svg" />
   </picture>
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ROOKIEEE12&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
 </p>
 
 ---
